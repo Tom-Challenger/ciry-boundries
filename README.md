@@ -11,4 +11,5 @@
 > make start
 
 Запус локально:
+> npm install  
 > npm start
